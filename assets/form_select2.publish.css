@@ -7,3 +7,6 @@
 	padding: 3px 7px 4px;
 	line-height: 14px;
 }
+.select2-search-choice-close {
+	border: none;
+}
